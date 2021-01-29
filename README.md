@@ -39,8 +39,11 @@ https://mirrors.bfsu.edu.cn/osdn//datasets/74526/reuters.npz
 训练集 60000 张，大小28*28，共10类（0-9），测试集 10000 张图像。
 
 https://mirrors.bfsu.edu.cn/osdn//datasets/74526/t10k-images-idx3-ubyte.gz
+
 https://mirrors.bfsu.edu.cn/osdn//datasets/74526/t10k-labels-idx1-ubyte.gz
+
 https://mirrors.bfsu.edu.cn/osdn//datasets/74526/train-images-idx3-ubyte.gz
+
 https://mirrors.bfsu.edu.cn/osdn//datasets/74526/train-labels-idx1-ubyte.gz
 
 ### BOSTON HOUSEING
