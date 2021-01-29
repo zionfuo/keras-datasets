@@ -74,3 +74,4 @@ C:\Users\user_name\.keras\datasets  # win10
 https://github.com/keras-team/keras/tree/master/keras/datasets
 
 感谢[北京外国语大学开源软件镜像站](https://mirrors.bfsu.edu.cn/)提供加速
+感谢[矩池云](https://matpool.com/)提供资源
