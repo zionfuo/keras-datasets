@@ -2,6 +2,8 @@
 
 ![](https://keras.io/img/logo-small.png)
 
+![Total Visitors](https://visitor-badge.glitch.me/badge?page_id=zionfuo.keras-datasets)
+
 Keras Datasets 从官方地址直接下会比较慢，故在这里提供一下国内镜像下载链接。
 
 ### MNIST
